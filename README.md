@@ -6,10 +6,21 @@
 </p>
 
 ---
+### 🌱 My Interests
 
-### My interest
+I’m passionate about data-driven problem solving and statistical modeling for impactful decision-making. My main areas of interest include:
 
-I ...
+- 📊 Time Series Analysis & Forecasting (ARIMA, ETS, Prophet)
+- 🤖 Machine Learning for Regression, Classification & Clustering
+- 🧠 Econometrics & Applied Economic Modeling (especially using R & STATA)
+- 🗺️ Spatial Data Analysis & Mapping (using R, Magrit, QGIS)
+- 📈 Data Visualization (Power BI, ggplot2, matplotlib)
+- 💾 Relational Databases & SQL for business intelligence
+- 🧪 Simulation methods (Monte Carlo, agent-based modeling)
+- 💼 Building dashboards and automated reports for decision support
+
+I enjoy exploring real-world datasets in economics, energy, health, and demography, and turning raw data into actionable insights.
+
 
 ---
 
